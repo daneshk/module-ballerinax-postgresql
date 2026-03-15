@@ -1,6 +1,14 @@
 ## Overview
 
-This module provides the functionality required to access and manipulate data stored in a PostgreSQL database.
+This module provides the functionality required to access and manipulate data stored in a PostgreSQL database. It enables seamless integration with PostgreSQL, supporting various data types and advanced database features.
+
+### Key Features
+
+- Reliable and high-performance database connectivity
+- Support for common SQL operations (Query, Execute, Batch)
+- Efficient connection pooling and resource management
+- Support for Change Data Capture (CDC) and SSL
+- GraalVM compatible for native image builds
 
 ### Prerequisite
 Add the PostgreSQL driver as a dependency to the Ballerina project.
